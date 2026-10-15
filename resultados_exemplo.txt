@@ -1,0 +1,11 @@
+Exemplo de execução — estado inicial (0, 0)
+Valores observados em uma execução local; tempos variam conforme máquina e execução.
+
+BFS: 4 ações; 8 nós expandidos; 10 nós gerados; 0,0235 ms.
+Caminho: (0,0) -> (0,3) -> (3,0) -> (3,3) -> (4,2)
+
+DFS: 6 ações; 7 nós expandidos; 9 nós gerados; 0,0152 ms.
+Caminho: (0,0) -> (4,0) -> (1,3) -> (1,0) -> (0,1) -> (4,1) -> (2,3)
+
+IDDFS: 4 ações; 25 nós expandidos; 49 nós gerados; 0,0783 ms.
+Caminho: (0,0) -> (0,3) -> (3,0) -> (3,3) -> (4,2)
